@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@date-io/date-fns": "^3.0.0",
+    "@mui/x-date-pickers": "^7.22.0",
+    "react-transition-group": "^4.4.5",
+    "recharts": "^2.12.7"
+  }
+}
